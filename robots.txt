@@ -1,6 +1,7 @@
 # www.robotstxt.org/
 #Robot
 --Robot can be use
+#Todays robot are very much
 # Allow crawling of all content
 User-agent: *
 Disallow:
