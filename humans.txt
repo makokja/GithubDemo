@@ -6,7 +6,7 @@
 # TEAM
     IT Operations
     <name> -- <role> -- <twitter>
-    Makok Cotcharat Manager
+    Makok Cotcharat Manager  songwut@this.fish
 
 # THANKS
 
