@@ -5,6 +5,7 @@
 # Humans are good yeah
 # TEAM
     IT Operations
+    github team
     <name> -- <role> -- <twitter>
     Makok Cotcharat Manager  songwut@this.fish
 
