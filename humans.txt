@@ -10,9 +10,10 @@
 
 # THANKS
 
-    <name>
+    Songwut Cotcharat
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Angular Js
