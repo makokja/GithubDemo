@@ -5,7 +5,7 @@
         <tile>
             <square70x70logo src="tile2-exotic.png"/>
             <square150x150logo src="tile-glamour.png"/>
-            <wide310x150logo src="tile-wide.png"/>
+            <wide310x150logo src="tile-narrow.png"/>
             <square310x310logo src="tile.png"/>
         </tile>
     </msapplication>
